@@ -11,7 +11,14 @@ function App() {
         </main>
       </div>
       <footer>
-        Coded by <a href="/">Gabriella Karsten</a>
+        Coded by{" "}
+        <a
+          href="https://github.com/gabykarsten"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Gabriella Karsten
+        </a>
       </footer>
     </div>
   );
