@@ -19,8 +19,22 @@ function App() {
         >
           Gabriella Karsten
         </a>
-        | open-sourced on <a href="/">Github</a> | hosted on{" "}
-        <a href="/">Netlify</a>
+        | open-sourced on{" "}
+        <a
+          href="https://github.com/gabykarsten/dictionary-project"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Github
+        </a>{" "}
+        | hosted on{" "}
+        <a
+          href="https://dictionaryprojectkarsten.netlify.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Netlify
+        </a>
       </footer>
     </div>
   );
