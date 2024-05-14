@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Dictionary</h1>
+        <h1>DICTIONARY</h1>
         <main>
           <Dictionary defaultKeyword="beige" />
         </main>
@@ -19,6 +19,8 @@ function App() {
         >
           Gabriella Karsten
         </a>
+        | open-sourced on <a href="/">Github</a> | hosted on{" "}
+        <a href="/">Netlify</a>
       </footer>
     </div>
   );
